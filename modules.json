@@ -1,0 +1,66 @@
+[
+  {
+    "Id": "VirtoCommerce.Core",
+    "Title": "Core module",
+    "Description": "NONE",
+    "Authors": [
+      "Eugeny Tatarincev",
+      "Artem Dudarev"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": null,
+    "IconUrl": null,
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2022 Virto Commerce. All rights reserved",
+    "Tags": null,
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "3.206.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.218.0",
+        "PackageUrl": "https://git.grotem.com/api/v4/projects/389/packages/generic/VirtoCommerce.Core/0.0.1/VirtoCommerce.Core_3.206.0.zip",
+        "Incompatibilities": [],
+        "Dependencies": null,
+        "ReleaseNotes": ""
+      }
+    ]
+  },
+  {
+    "Id": "VirtoCommerce.Inventory",
+    "Title": "Inventory module",
+    "Description": "NONE",
+    "Authors": [
+      "Eugeny Tatarincev",
+      "Artem Dudarev"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": null,
+    "IconUrl": null,
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2022 Virto Commerce. All rights reserved",
+    "Tags": null,
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "3.210.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.218.0",
+        "PackageUrl": "https://git.grotem.com/api/v4/projects/389/packages/generic/VirtoCommerce.Inventory/0.0.1/VirtoCommerce.Inventory_3.210.0.zip",
+        "Incompatibilities": [],
+        "Dependencies": null,
+        "ReleaseNotes": ""
+      }
+    ]
+  }
+]
